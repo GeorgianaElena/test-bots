@@ -1,3 +1,3 @@
 # test-bots
 
-This is a repo to test bots :D
+This is a repo to test bots :sunflower:
